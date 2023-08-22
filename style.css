@@ -1,0 +1,52 @@
+h1 {
+    background-color: rgb(61, 163, 69);
+    border: 5px solid green;
+    border-style: dotted;
+}      
+
+h2{
+    color: cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+
+h3 {
+    border: 5px solid rgb(235, 149, 20);
+    border-style: double;
+    
+}
+
+.p1 {
+    background: blueviolet;
+    font-size: 16pt;
+    color: darksalmon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.p2 {
+    background: lightcoral;
+    font-size: 16pt;
+    color: crimson;
+    border: 5px solid rgb(167, 8, 69);
+    border-radius: 10px;
+    border-style: groove;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.p3 {
+    border: 5px solid rgb(25, 101, 187);
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 16px;
+    padding-left: 26px;
+    color: darkolivegreen;
+    background: cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: ridge;
+}
+.p4 {
+    font-style: oblique;
+    font-size: 24px;
+    text-shadow: 2px 2px 2px green;
+    text-align: center;
+}
